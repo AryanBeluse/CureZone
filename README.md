@@ -1,7 +1,7 @@
 # CureZone
 Personalized Healthcare Recommendations by predictiong disease
 
-link: "https//:curezone.onrender.com"  for users.
+link: "[](https://curezone.onrender.com/)"  for users.
 for admin/doctor: "https://:curezoneadmin.onrender.com"
 
 Here’s a concise version of your **Personalized Healthcare Project** description:
